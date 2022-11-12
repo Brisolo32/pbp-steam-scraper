@@ -1,0 +1,10 @@
+# The density of node_modules is close to 10¹⁰+10¹⁰kg
+# This means that node_modules is lighter than your mom
+node_modules/
+
+# Cache and Dist dirs
+cache/
+dist/
+
+# Useless file
+package-lock.json
